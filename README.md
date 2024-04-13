@@ -1,5 +1,3 @@
-# Convex
+# Replaced by https://github.com/get-convex/convex-presence
 
-This example demonstrates Convex presence.
-
-See [this post](https://stack.convex.dev/presence-with-convex) to learn more.
+This repo is deprecated. This one is up to date: https://github.com/get-convex/convex-presence
